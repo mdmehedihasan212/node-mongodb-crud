@@ -29,5 +29,15 @@
  * 
  * create client site form
  * on submit get form
+ * create user backend app.post from insert operation 
+ * read user backend app.get from find multiple operation
+ * get use function add backend
+ * fetch data in home component and display show data
+ * add button display user
+ * 
+ * -----------
+ * delete user
+ * -----------
+ * 
  * 
  */
